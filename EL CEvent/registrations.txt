@@ -1,0 +1,10 @@
+----- REGISTRATION -----
+Event Name : Workshop
+RegNo      : 112
+Date       : 15-05-2026
+------------------------
+----- REGISTRATION -----
+Event Name : Cultural Event
+RegNo      : 003
+Date       : 15-05-2026
+------------------------

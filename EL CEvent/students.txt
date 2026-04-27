@@ -1,0 +1,14 @@
+----- STUDENT -----
+Name       : Priss
+RegNo      : 112
+Department : CSE
+Phone      : 6789054321
+Password   : 7890
+--------------------
+----- STUDENT -----
+Name       : Srijv
+RegNo      : 003
+Department : IT
+Phone      : 5678904321
+Password   : 4567
+--------------------

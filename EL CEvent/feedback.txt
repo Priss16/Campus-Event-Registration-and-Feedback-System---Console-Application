@@ -1,0 +1,15 @@
+----- FEEDBACK -----
+Event Name : Workshop
+Rating     : 5
+Comments   : good
+---------------------
+----- FEEDBACK -----
+Event Name : Cultural
+Rating     : 5
+Comments   : good
+---------------------
+----- FEEDBACK -----
+Event Name : Cultural
+Rating     : 5
+Comments   : good
+---------------------
